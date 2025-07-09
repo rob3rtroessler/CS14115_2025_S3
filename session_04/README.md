@@ -1,0 +1,1 @@
+### Day 4 is a lab-style day where there is no lab manual as the same concepts are used as in days 2-3 (webscraping and visualizations using matplotlib).
